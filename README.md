@@ -1,2 +1,2 @@
 # task_manager_templates
-Lorem Ipsum
+Templates of Task Manager
